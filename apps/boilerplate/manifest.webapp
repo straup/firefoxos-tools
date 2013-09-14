@@ -1,0 +1,20 @@
+{
+    "default_locale": "en", 
+    "description": "BOILERPLATE:DESCRIPTION", 
+    "developer": {
+        "name": "BOILERPLATE:DEVELOPER_NAME", 
+        "url": "BOILERPLATER:DEVELOPER_URL"
+    }, 
+    "icons": {
+        "128": "/img/icon128.png", 
+        "16": "/img/icon16.png", 
+        "32": "/img/icon32.png", 
+        "48": "/img/icon48.png", 
+        "64": "/img/icon64.png"
+    }, 
+    "installs_allowed_from": [
+	"BOILERPLATE:FROM"
+    ], 
+    "launch_path": "/BOILERPLATE:PROJECT/index.html", 
+    "name": "BOILERPLATE:NAME"
+}
